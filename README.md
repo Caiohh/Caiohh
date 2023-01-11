@@ -1,12 +1,12 @@
 ### Oi! Eu sou o Caio Henrik
 
 - 💻 Trabalhando com Front-end
-- 📚 Estudando Python e Javascript...
+- 📚 Estudando Python
 - 💬 Sobre mim: gosto de ler livros e mangás, ver filmes e alguns seriados e animes, praticar exercícios e jogar jogos online com amigos!
 
 ### Hi! I'm Caio Henrik 
 - 💻 Working with Front-end 
-- 📚 Studying Python and Javascript...
+- 📚 Studying Python
 - 💬 About me: I like reading books and manga, watching movies and some series and anime, exercising and playing online games with friends!
 
 <div align="center">

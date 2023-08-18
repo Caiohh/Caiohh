@@ -2,12 +2,12 @@
 
 - 💻 Desenvolvedor Fullstack Júnior;
 - 📚 Estudando Desenvolvimento web;
-- 💬 Sobre mim: gosto de ler livros e mangás, ver filmes e alguns seriados e animes, praticar exercícios e jogar jogos online com amigos!
+- 💬 Sobre mim: gosto de ler livros, ver filmes e alguns seriados, praticar exercícios e jogar jogos online com amigos!
 
 ### Hi! I'm Caio Henrik 
 - 💻 Dev Fullstack Junior
 - 📚 Studying Web Development
-- 💬 About me: I like reading books and manga, watching movies and some series and anime, exercising and playing online games with friends!
+- 💬 About me: I like reading books, watching movies and some series, exercising and playing online games with friends!
 
 <div align="center">
   <a href="https://github.com/Caiohh">

@@ -9,12 +9,12 @@
 - 📚 Studying Web Development
 - 💬 About me: I like reading books, watching movies and some series, exercising and playing online games with friends!
 
-<div align="center">
+<!-- <div align="center">
   <a href="https://github.com/Caiohh">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Caiohh&show_icons=true&theme=aura&include_all_commits=true&count_private=true"/>  
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Caiohh&layout=compact&langs_count=7&theme=aura"/>
    
-</div>
+</div> -->
   
   
   <div style="display: inline_block"><br>
@@ -39,5 +39,3 @@
   <a href = "mailto:caiolemes2313@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/caio-lemes-01b03a1a0/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   </div>
-  
-  ![Snake animation](https://github.com/Caioh/Caioh/blob/output/github-contribution-grid-snake.svg)

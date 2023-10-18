@@ -15,7 +15,8 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Caiohh&layout=compact&langs_count=7&theme=aura"/>
    
 </div>
-  
+
+  <a href="https://app.daily.dev/DailyDevTips"><img src="https://github.com/Caioh/Caioh/blob/master/devcard.svg" width="400" alt="Caio Teberga's Dev Card"/></a>
   
   <div style="display: inline_block"><br>
   <img align="center" alt="Caio-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">

@@ -12,6 +12,7 @@
   <a href="https://app.daily.dev/caioteberga"><img src="https://github.com/Caiohh/Caiohh/blob/main/devcard.svg" width="300" alt="Caio Teberga's Dev Card"/></a>
 <div style="display: inline-block;">
     <img height="160em" src="https://github-readme-stats.vercel.app/api?username=Caiohh&show_icons=true&theme=aura&include_all_commits=true&count_private=true" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Caiohh&layout=compact&langs_count=7&theme=aura"/>
+  <br>
     <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Caiohh&layout=compact&langs_count=7&theme=aura"/>   
 </div>
 

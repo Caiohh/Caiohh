@@ -10,13 +10,13 @@
 - 💬 About me: I like reading books, watching movies and some series, exercising and playing online games with friends!
 
 <div align="center">
+  <a style="display: flex;" href="https://app.daily.dev/caioteberga"><img src="https://github.com/Caiohh/Caiohh/blob/main/devcard.svg" width="300" alt="Caio Teberga's Dev Card"/></a>
   <a href="https://github.com/Caiohh">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Caiohh&show_icons=true&theme=aura&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Caiohh&layout=compact&langs_count=7&theme=aura"/>
    
 </div>
 
-  <a style="display: flex;" href="https://app.daily.dev/caioteberga"><img src="https://github.com/Caiohh/Caiohh/blob/main/devcard.svg" width="400" alt="Caio Teberga's Dev Card"/></a>
   
   <div style="display: inline_block;"><br>
   <img align="center" alt="Caio-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">

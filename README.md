@@ -16,7 +16,7 @@
    
 </div>
 
-  <a style="display: flex;" href="https://app.daily.dev/caiolemess"><img src="https://github.com/Caiohh/Caiohh/blob/main/devcard.svg" width="400" alt="Caio Teberga's Dev Card"/></a>
+  <a style="display: flex;" href="https://app.daily.dev/caioteberga"><img src="https://github.com/Caiohh/Caiohh/blob/main/devcard.svg" width="400" alt="Caio Teberga's Dev Card"/></a>
   
   <div style="display: inline_block;"><br>
   <img align="center" alt="Caio-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">

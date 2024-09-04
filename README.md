@@ -35,7 +35,6 @@
   <a href="https://nestjs.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-plain.svg" alt="nestjs" width="40" height="40"/> </a>
 </p>
 
-<p><a href="https://app.daily.dev/caioteberga"><img src="https://github.com/Caiohh/Caiohh/blob/main/devcard.svg" width="300" alt="Caio Teberga's Dev Card"/></a></p>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=caiohh&theme=default" alt="caiohh" /></p>
 <p>
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=Caiohh&show_icons=true&theme=aura&include_all_commits=true&count_private=true" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Caiohh&layout=compact&langs_count=7&theme=aura"/>

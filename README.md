@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=caiohh" alt="caiohh" /></a> </p>
 
-- 🔭 I'm currently working at the **FATECOINS - Soluções digitais para transformação digital e indústria 4.0.**
+<!-- - 🔭 I'm currently working at the **FATECOINS - Soluções digitais para transformação digital e indústria 4.0.** -->
 
 - 🌱 I’m currently learning **React and Typescript**
 

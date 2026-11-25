@@ -1,42 +1,138 @@
-<h1 align="center">Hi 👋, I'm Caio Teberga</h1>
-<h3 align="center">A fullstack programmer with a passion for technology</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=caiohh&label=Profile%20views&color=ae00ff&style=flat" alt="caiohh" /> </p>
+<div align="center">
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=caiohh" alt="caiohh" /></a> </p>
+# K O S M O S
 
-<!-- - 🔭 I'm currently working at the **FATECOINS - Soluções digitais para transformação digital e indústria 4.0.** -->
+### SOLUÇÕES DIGITAIS
 
-- 🌱 I’m currently learning **React and Typescript**
+**Tecnologia sob medida para o seu negócio.**
 
-- 📫 How to reach me **caiohenrik2313@gmail.com**
+<br>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/caio-teberga-01b03a1a0/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/caio-teberga-01b03a1a0/" height="30" width="40" /></a>
-<a href="https://instagram.com/caioteberga/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/caioteberga/" height="30" width="40" /></a>
-</p>
+# Olá, sou Caio Teberga!
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> 
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> 
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> 
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> 
-  <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> 
-  <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> 
-  <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
-  <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> 
-  <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> 
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
-  <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a>
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a>
-  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a>
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a>
-  <a href="https://nestjs.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-plain.svg" alt="nestjs" width="40" height="40"/> </a>
-</p>
+**Software Developer · Automações e Integrações · Founder of KOSMOS**
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=caiohh&theme=default" alt="caiohh" /></p>
-<p>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=Caiohh&show_icons=true&theme=aura&include_all_commits=true&count_private=true" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Caiohh&layout=compact&langs_count=7&theme=aura"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Caiohh&layout=compact&langs_count=7&theme=aura"/> 
-</p>
+<br>
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-18181B?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/caio-teberga-01b03a1a0/)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-18181B?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5512991161273)
+[![Email](https://img.shields.io/badge/E--mail-18181B?style=for-the-badge&logo=gmail&logoColor=white)](mailto:caiohenrik2313@gmail.com)
+
+</div>
+
+---
+
+## Sobre mim
+
+Sou desenvolvedor de software e fundador da **KOSMOS Soluções Digitais**, com atuação no desenvolvimento de sistemas, automação de processos, integração de tecnologias e análise de dados.
+
+Desenvolvo soluções personalizadas para necessidades reais de negócios, buscando simplificar processos, melhorar a produtividade e facilitar o acesso à informação.
+
+Minha experiência também inclui tecnologia aplicada à gestão hospitalar, desenvolvimento de indicadores gerenciais e integração entre sistemas.
+
+## Áreas de atuação
+
+| Solução | Aplicação |
+| :--- | :--- |
+| Desenvolvimento Web | Sites, landing pages e plataformas digitais |
+| Sistemas personalizados | Aplicações voltadas à gestão e operação |
+| Aplicativos | Soluções mobile para diferentes necessidades |
+| Automação de processos | Redução de tarefas repetitivas e manuais |
+| Inteligência Artificial | Integração de IA em aplicações e processos |
+| Integrações e APIs | Comunicação entre sistemas e serviços |
+| Dados e indicadores | Dashboards, relatórios e análise de informações |
+
+---
+
+## Stack tecnológica
+
+### Desenvolvimento Front-end
+
+![Front-end](https://skillicons.dev/icons?i=html,css,js,ts,react,tailwind,bootstrap&theme=dark)
+
+### Desenvolvimento Back-end
+
+![Back-end](https://skillicons.dev/icons?i=python,php,nodejs,nestjs&theme=dark)
+
+### Bancos de dados
+
+![Database](https://skillicons.dev/icons?i=postgres,mysql&theme=dark)
+![SQL Server](https://img.shields.io/badge/SQL_Server-18181B?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
+
+### Automação e integrações
+
+![n8n](https://img.shields.io/badge/n8n-18181B?style=for-the-badge&logo=n8n&logoColor=white)
+![UiPath](https://img.shields.io/badge/UiPath-18181B?style=for-the-badge&logo=uipath&logoColor=white)
+![REST API](https://img.shields.io/badge/REST_API-18181B?style=for-the-badge)
+![Artificial Intelligence](https://img.shields.io/badge/Artificial_Intelligence-18181B?style=for-the-badge)
+
+### Ferramentas e infraestrutura
+
+![Tools](https://skillicons.dev/icons?i=git,github,linux,vscode,figma,netlify&theme=dark)
+
+![Apache](https://img.shields.io/badge/Apache-18181B?style=for-the-badge&logo=apache&logoColor=white)
+![XAMPP](https://img.shields.io/badge/XAMPP-18181B?style=for-the-badge&logo=xampp&logoColor=white)
+
+---
+
+## Projetos em destaque
+
+### KOSMOS Soluções Digitais
+
+Desenvolvimento de sites, sistemas, automações e soluções tecnológicas personalizadas para negócios.
+
+### Sunday AI
+
+Assistente pessoal para Android, projetado para integrar inteligência artificial, organização de tarefas, agenda e comandos por voz.
+
+### BaitaTrampo
+
+Plataforma digital desenvolvida para conectar profissionais prestadores de serviços a potenciais clientes.
+
+### Healthcare Solutions
+
+Desenvolvimento de soluções voltadas à gestão hospitalar, incluindo:
+
+- Dashboards e indicadores assistenciais.
+- Sistemas de gestão e consulta de informações.
+- Automação de processos internos.
+- Integrações entre sistemas e bancos de dados.
+
+### Sistemas de relatórios técnicos
+
+Soluções para padronização e geração automatizada de relatórios, incluindo registros fotográficos e exportação em PDF.
+
+---
+
+## GitHub Analytics
+
+<div align="center">
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=Caiohh&show_icons=true&hide_border=true&bg_color=0D1117&title_color=A78BFA&icon_color=A78BFA&text_color=C9D1D9&include_all_commits=true" alt="GitHub Stats" />
+
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Caiohh&layout=compact&hide_border=true&bg_color=0D1117&title_color=A78BFA&text_color=C9D1D9&langs_count=8" alt="Top Languages" />
+
+</div>
+
+---
+
+## KOSMOS Soluções Digitais
+
+Desenvolvemos soluções tecnológicas de acordo com as necessidades de cada negócio, desde a presença digital até a automação de operações e processos internos.
+
+**Tem um projeto ou processo que precisa de uma solução tecnológica?**
+
+[![Entre em contato](https://img.shields.io/badge/Entre_em_contato-7C3AED?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5512991161273)
+
+---
+
+<div align="center">
+
+**K O S M O S**
+
+SOLUÇÕES DIGITAIS
+
+<sub>Tecnologia sob medida para o seu negócio.</sub>
+
+</div>
